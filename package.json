@@ -52,7 +52,7 @@
     "editor": "~1.0.0",
     "fs-vacuum": "~1.2.10",
     "fs-write-stream-atomic": "~1.0.10",
-    "glob": "~7.1.2",
+    "glob": "~11.0.3",
     "graceful-fs": "~4.1.11",
     "has-unicode": "~2.0.1",
     "hosted-git-info": "~2.5.0",
